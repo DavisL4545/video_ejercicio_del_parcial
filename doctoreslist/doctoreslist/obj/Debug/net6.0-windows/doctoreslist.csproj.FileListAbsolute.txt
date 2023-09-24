@@ -1,0 +1,17 @@
+C:\Users\David\Desktop\doctoreslist\doctoreslist\bin\Debug\net6.0-windows\doctoreslist.exe
+C:\Users\David\Desktop\doctoreslist\doctoreslist\bin\Debug\net6.0-windows\doctoreslist.deps.json
+C:\Users\David\Desktop\doctoreslist\doctoreslist\bin\Debug\net6.0-windows\doctoreslist.runtimeconfig.json
+C:\Users\David\Desktop\doctoreslist\doctoreslist\bin\Debug\net6.0-windows\doctoreslist.dll
+C:\Users\David\Desktop\doctoreslist\doctoreslist\bin\Debug\net6.0-windows\doctoreslist.pdb
+C:\Users\David\Desktop\doctoreslist\doctoreslist\obj\Debug\net6.0-windows\doctoreslist.csproj.AssemblyReference.cache
+C:\Users\David\Desktop\doctoreslist\doctoreslist\obj\Debug\net6.0-windows\doctoreslist.Form1.resources
+C:\Users\David\Desktop\doctoreslist\doctoreslist\obj\Debug\net6.0-windows\doctoreslist.csproj.GenerateResource.cache
+C:\Users\David\Desktop\doctoreslist\doctoreslist\obj\Debug\net6.0-windows\doctoreslist.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\David\Desktop\doctoreslist\doctoreslist\obj\Debug\net6.0-windows\doctoreslist.AssemblyInfoInputs.cache
+C:\Users\David\Desktop\doctoreslist\doctoreslist\obj\Debug\net6.0-windows\doctoreslist.AssemblyInfo.cs
+C:\Users\David\Desktop\doctoreslist\doctoreslist\obj\Debug\net6.0-windows\doctoreslist.csproj.CoreCompileInputs.cache
+C:\Users\David\Desktop\doctoreslist\doctoreslist\obj\Debug\net6.0-windows\doctoreslist.dll
+C:\Users\David\Desktop\doctoreslist\doctoreslist\obj\Debug\net6.0-windows\refint\doctoreslist.dll
+C:\Users\David\Desktop\doctoreslist\doctoreslist\obj\Debug\net6.0-windows\doctoreslist.pdb
+C:\Users\David\Desktop\doctoreslist\doctoreslist\obj\Debug\net6.0-windows\doctoreslist.genruntimeconfig.cache
+C:\Users\David\Desktop\doctoreslist\doctoreslist\obj\Debug\net6.0-windows\ref\doctoreslist.dll
